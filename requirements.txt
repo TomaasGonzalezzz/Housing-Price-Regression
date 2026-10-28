@@ -1,0 +1,7 @@
+# Versiones originales de las bibliotecas no registradas.
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+jupyterlab

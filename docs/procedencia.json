@@ -1,0 +1,99 @@
+{
+  "descripcion": "Código, notebook, CSV y README originales sin modificaciones. Se excluyen seis .pyc de __pycache__. Los dos CSV de Data.zip coinciden byte a byte con data/raw y se incluyen una sola vez. La figura del README procede de la salida PNG guardada en la celda 49 del notebook (índice desde cero).",
+  "fuentes": [
+    {
+      "archivo": "Gonzalez_Tomas_TP1.zip",
+      "sha256": "349067d4a98e590a3b61d4d5038ebbe69068904c2e39781d708cd493294a3f7c"
+    },
+    {
+      "archivo": "Trabajo Práctico 1-20261028.zip",
+      "sha256": "08fedad15c4b4e7e4b89413ea1ff5e3ed965145774430e55cec629ed7ac68f33"
+    }
+  ],
+  "archivos_originales": [
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/data/processed/dataset_base_dev.csv",
+      "archivo_repositorio": "data/processed/dataset_base_dev.csv",
+      "sha256": "e83db5a892872f0b444abc31f04647ce297f9a9080ff08f67c0e0e627f4165e2"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/data/processed/dataset_base_test.csv",
+      "archivo_repositorio": "data/processed/dataset_base_test.csv",
+      "sha256": "17ddd0fbee60dca5a94fc8d8fa0a4005b282e03d9a91a097daf1c81de1466ea4"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/data/processed/dataset_inspeccion_modelos.csv",
+      "archivo_repositorio": "data/processed/dataset_inspeccion_modelos.csv",
+      "sha256": "12feb593b014f0da7cb8e0917c027122dc35d5c70dfd1a76ecb9ae7cfcdbc566"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/data/raw/casas_dev.csv",
+      "archivo_repositorio": "data/raw/casas_dev.csv",
+      "sha256": "c7d25086956f74ffa394b401a2360dee849575fbed82f78ab1056017ebbe755f"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/data/raw/casas_test.csv",
+      "archivo_repositorio": "data/raw/casas_test.csv",
+      "sha256": "28c7a06d55d90335cc15eb48dafa43ced21ba6cf65b6888480aafc34e3228e62"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/notebook/Entrega_TP1.ipynb",
+      "archivo_repositorio": "notebook/Entrega_TP1.ipynb",
+      "sha256": "15e36d7fc7b16b7c31ad79dc7c7f95ee835d8f0a6615872703d245bbcaa0c00c"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/README.md",
+      "archivo_repositorio": "docs/README_entrega_original.md",
+      "sha256": "acb2880c716dfb2f3447cfce1945f94d0c7c5d69a912854e40ffc2887f96e65f"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/data_splitting.py",
+      "archivo_repositorio": "src/data_splitting.py",
+      "sha256": "798a15ceca97f42c718e70cc68fad01587a7dd49f416f87a37dbae6922853815"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/metrics.py",
+      "archivo_repositorio": "src/metrics.py",
+      "sha256": "cfb0ad17236bf848b331801ecdb0817daa843a819baccd8ea986a1743f9268fe"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/models.py",
+      "archivo_repositorio": "src/models.py",
+      "sha256": "85da8d5fa4e7654378688bf8921704c2335ebdd655877dddf32a2e9c4fe7a181"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/preprocessing.py",
+      "archivo_repositorio": "src/preprocessing.py",
+      "sha256": "a3a9c9457b8b08d87e78ce55f2226a287503e6bdc34d27cf3b7b40e7de0f6603"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/utils.py",
+      "archivo_repositorio": "src/utils.py",
+      "sha256": "5fcc60e99717c4d8627c7f4442732b0ffe6881a34bf2a94ade387176e660bdcc"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP1.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP1/src/visualization.py",
+      "archivo_repositorio": "src/visualization.py",
+      "sha256": "06c296e7388758602f3e6319b21fe46365bec192739d89372ffb816fa1d11de5"
+    },
+    {
+      "fuente": "Trabajo Práctico 1-20261028.zip",
+      "archivo_zip": "Trabajo Práctico 1 - I302 1er Semestre 2026.pdf",
+      "archivo_repositorio": "docs/consigna.pdf",
+      "sha256": "7f6e6d8ea840df65164233ab9de4a5572fabbf0120dbac80705f8ceaf7a72ab3"
+    }
+  ]
+}

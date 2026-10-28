@@ -1,0 +1,28 @@
+{
+  "metodo": "Comprobaciones acotadas sobre los módulos originales: regresión sintética conocida mediante pseudoinversa y gradiente sin regularización, métricas, predicciones finitas Ridge/Lasso y separación de índices train/validation y K-fold. No se reentrenaron los modelos inmobiliarios ni se ejecutó el notebook completo.",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "coeficientes_esperados": [
+    7,
+    3,
+    -2
+  ],
+  "coeficientes_pseudoinversa": [
+    6.999999999999998,
+    3.0000000000000018,
+    -2.0
+  ],
+  "coeficientes_gradiente": [
+    7.0000002684987335,
+    2.999998209945346,
+    -1.9999972953952572
+  ],
+  "metricas_ols_sintetico": {
+    "ECM": 6.435625872406167e-30,
+    "MAE": 2.0627943797535407e-15,
+    "RMSE": 2.5368535378311e-15,
+    "R2": 1.0
+  },
+  "resultado": "Comprobaciones satisfactorias"
+}
